@@ -1,4 +1,4 @@
-https://github.com/naseemabeemuhammed-bit/Motor-Insurance-Management-System.git
+https://github.com/naseemabeemuhammed-bit/Motor-Insurance-Management-System/tree/main
 
 #Motor-Insurance-Management-System#
 Features:
