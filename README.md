@@ -1,16 +1,17 @@
-https://github.com/naseemabeemuhammed-bit/Motor-Insurance-Management-System/tree/main
+# Motor Insurance Management System
 
-#Motor-Insurance-Management-System#
-Features:
--customer management
--vehicle details
--Insurance Quote Management
--Payment management
--Views
--Stored procedure
--Funtions
--Triggers
--Event Scheduler
--Index
--Grant and Revoke
+A database application developed using MySQL to manage and automate motor insurance services.
 
+## Features
+
+- Customer Management
+- Vehicle Details Management
+- Insurance Quote Management
+- Payment Management
+- Views
+- Stored Procedures
+- Functions
+- Triggers
+- Event Scheduler
+- Indexes
+- Grant and Revoke
